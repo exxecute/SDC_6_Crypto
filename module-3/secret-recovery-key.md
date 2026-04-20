@@ -1,0 +1,12 @@
+1. visual
+2. ozone
+3. man
+4. pet
+5. hybrid
+6. clip
+7. admit
+8. scatter
+9. door
+10. scorpion
+11. nut
+12. kitten
