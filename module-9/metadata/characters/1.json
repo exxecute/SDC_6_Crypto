@@ -1,0 +1,11 @@
+{
+  "name": "Paladin of Light",
+  "description": "A holy warrior with unmatched defense and shield skills.",
+  "image": "ipfs://QmYourImagesFolderCID/1.png",
+  "attributes": [
+    { "trait_type": "Element", "value": "Light" },
+    { "trait_type": "Strength", "value": 85 },
+    { "trait_type": "Speed", "value": 40 },
+    { "trait_type": "Rarity", "value": "Epic" }
+  ]
+}

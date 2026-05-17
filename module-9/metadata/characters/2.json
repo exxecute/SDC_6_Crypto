@@ -1,0 +1,11 @@
+{
+  "name": "Fire Sorcerer",
+  "description": "Master of destructive fire spells and area damage.",
+  "image": "ipfs://QmYourImagesFolderCID/2.png",
+  "attributes": [
+    { "trait_type": "Element", "value": "Fire" },
+    { "trait_type": "Strength", "value": 20 },
+    { "trait_type": "Speed", "value": 70 },
+    { "trait_type": "Rarity", "value": "Rare" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Stone Golem",
+  "description": "A massive creature made of living rock. Extremely slow but unstoppable.",
+  "image": "ipfs://QmYourImagesFolderCID/5.png",
+  "attributes": [
+    { "trait_type": "Element", "value": "Earth" },
+    { "trait_type": "Strength", "value": 95 },
+    { "trait_type": "Speed", "value": 15 },
+    { "trait_type": "Rarity", "value": "Rare" }
+  ]
+}

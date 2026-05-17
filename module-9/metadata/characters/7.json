@@ -1,0 +1,11 @@
+{
+  "name": "High Cleric",
+  "description": "Supports the team with powerful healing and defensive buffs.",
+  "image": "ipfs://QmYourImagesFolderCID/7.png",
+  "attributes": [
+    { "trait_type": "Element", "value": "Life" },
+    { "trait_type": "Strength", "value": 40 },
+    { "trait_type": "Speed", "value": 50 },
+    { "trait_type": "Rarity", "value": "Common" }
+  ]
+}

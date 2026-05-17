@@ -1,0 +1,11 @@
+{
+  "name": "Necromancer",
+  "description": "Commands the forces of undeath and drains enemy health.",
+  "image": "ipfs://QmYourImagesFolderCID/6.png",
+  "attributes": [
+    { "trait_type": "Element", "value": "Undead" },
+    { "trait_type": "Strength", "value": 35 },
+    { "trait_type": "Speed", "value": 55 },
+    { "trait_type": "Rarity", "value": "Epic" }
+  ]
+}

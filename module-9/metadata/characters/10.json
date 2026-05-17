@@ -1,0 +1,11 @@
+{
+  "name": "Dragon Lord",
+  "description": "The ultimate ruler of dragons, breathing cosmic fire.",
+  "image": "ipfs://QmYourImagesFolderCID/10.png",
+  "attributes": [
+    { "trait_type": "Element", "value": "Cosmic" },
+    { "trait_type": "Strength", "value": 100 },
+    { "trait_type": "Speed", "value": 80 },
+    { "trait_type": "Rarity", "value": "Mythic" }
+  ]
+}

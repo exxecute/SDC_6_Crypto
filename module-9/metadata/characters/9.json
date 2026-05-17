@@ -1,0 +1,11 @@
+{
+  "name": "Toxic Assassin",
+  "description": "Uses poisonous blades to deal damage over time.",
+  "image": "ipfs://QmYourImagesFolderCID/9.png",
+  "attributes": [
+    { "trait_type": "Element", "value": "Poison" },
+    { "trait_type": "Strength", "value": 60 },
+    { "trait_type": "Speed", "value": 90 },
+    { "trait_type": "Rarity", "value": "Epic" }
+  ]
+}

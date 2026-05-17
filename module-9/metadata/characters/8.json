@@ -1,0 +1,11 @@
+{
+  "name": "Frost Barbarian",
+  "description": "Furious fighter from the north who freezes enemies with his axe.",
+  "image": "ipfs://QmYourImagesFolderCID/8.png",
+  "attributes": [
+    { "trait_type": "Element", "value": "Ice" },
+    { "trait_type": "Strength", "value": 90 },
+    { "trait_type": "Speed", "value": 45 },
+    { "trait_type": "Rarity", "value": "Rare" }
+  ]
+}

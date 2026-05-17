@@ -1,0 +1,11 @@
+{
+  "name": "Wind Archer",
+  "description": "Sniper capable of hitting targets from extreme distances.",
+  "image": "ipfs://QmYourImagesFolderCID/4.png",
+  "attributes": [
+    { "trait_type": "Element", "value": "Wind" },
+    { "trait_type": "Strength", "value": 50 },
+    { "trait_type": "Speed", "value": 85 },
+    { "trait_type": "Rarity", "value": "Common" }
+  ]
+}

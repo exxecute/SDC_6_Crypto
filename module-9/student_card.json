@@ -1,0 +1,11 @@
+{
+  "name": "Student Visit Card",
+  "description": "Official Soulbound NFT representing student identity and course completion.",
+  "image": "ipfs://QmYourImagesFolderCID/visit-card.png",
+  "attributes": [
+    { "trait_type": "Student Name", "value": "Uladzislau Mikhayevich" },
+    { "trait_type": "Student ID", "value": "JA2HR23-24" },
+    { "trait_type": "Course", "value": "Blockchain and Smart Contracts" },
+    { "trait_type": "Academic Year", "value": "2026" }
+  ]
+}

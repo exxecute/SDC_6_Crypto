@@ -1,0 +1,11 @@
+{
+  "name": "Shadow Rogue",
+  "description": "Strikes from the darkness, highly agile and deadly.",
+  "image": "ipfs://QmYourImagesFolderCID/3.png",
+  "attributes": [
+    { "trait_type": "Element", "value": "Darkness" },
+    { "trait_type": "Strength", "value": 65 },
+    { "trait_type": "Speed", "value": 95 },
+    { "trait_type": "Rarity", "value": "Legendary" }
+  ]
+}
